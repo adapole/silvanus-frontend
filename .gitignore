@@ -3,6 +3,7 @@ assets/
 src/generated/
 src/scripts/Readme.md
 build.log
+dist/
 include/draco/
 include/ktx2/
 include/three/
